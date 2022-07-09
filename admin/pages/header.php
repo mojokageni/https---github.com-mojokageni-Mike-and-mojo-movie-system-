@@ -49,7 +49,7 @@ include('../../config.php');
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>O</b>BS</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Movie Ticket Booking System in PHP</b></span>
+      <span class="logo-lg"><b>Mike and Micheal's Cinema</b></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
